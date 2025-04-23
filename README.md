@@ -1,4 +1,4 @@
-# FreeDrawing On Canva
+# CategoryDemo
 
 This is basic Flutter setup project.Below things are ready in this project
 
