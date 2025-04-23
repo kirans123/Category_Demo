@@ -1,0 +1,5 @@
+{
+    "env" : "stg",
+    "baseUrl" : "http://stg.io"
+    
+}
